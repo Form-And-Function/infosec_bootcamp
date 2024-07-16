@@ -1,1 +1,4 @@
 scapy
+import-ipynb
+numpy
+sympy
